@@ -5,3 +5,8 @@ git commit -m ""
 git branch -M main
 git remote add origin https://github.com/AilinMolina/clase-19-02.git
 git push -u origin main
+
+Para actualizarlo
+git add .
+git commit -m ""
+git push
